@@ -1,6 +1,6 @@
 # Heart-Attack-Analysis-Prediction
 
-### AIM:- The Purpose of this Project is to create a Machine learning model to predict a person's chance of a heart attack.
+## AIM:- The Purpose of this Project is to create a Machine learning model to predict a person's chance of a heart attack.
 
 ## Column details
 ### Categorical
