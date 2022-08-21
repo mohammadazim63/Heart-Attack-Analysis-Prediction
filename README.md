@@ -1,8 +1,9 @@
 # Heart-Attack-Analysis-Prediction
 
 AIM:- The Purpose of this Project is to create a Machine learning model to predict a person's chance of a heart attack.
-Column details
-Categorical
+
+## Column details
+### Categorical
 sex - Gender of person
 cp - Chest pain type
 caa - number of major vessels (0-3)
@@ -17,7 +18,8 @@ exng - exercise induced angina (1= yes, 0 = no)
 
 slp - slope
 thall - thal rate
-Continuous
+
+## Continuous
 trtbps - Resting blood pressure (mm Hg)
 chol - cholesterol in mg/dl fetched via BMI sensor (1: typical angina, 2: atypical angina, 3: non-anginal pain, 4: asymptomatic)
 
